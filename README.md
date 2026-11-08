@@ -9,7 +9,7 @@ to .NET applications. The samples in this repository show it on ASP.NET Core + S
 
 | Sample | Scenario | Stack |
 |---|---|---|
-| [Advanced search](AdvancedSearch) | Advanced search | ASP.NET Core 6 · Stencil 2 · C#, TypeScript |
+| [Advanced search](AdvancedSearch) | Advanced search | ASP.NET Core 10 · Stencil 2 · C#, TypeScript |
 
 * **Advanced search.** A full-page query builder: users pick the columns, combine any conditions they need, run the query and work with the result — sorting, paging and export.
 
